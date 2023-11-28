@@ -14,6 +14,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/beuzhi/count.svg)
 
 - Languages and Tools...
+- 
 ![html](https://github.com/beuzhi/beuzhi/assets/94816936/d8b75971-89bb-47f8-9fdc-f7c28e5d1347)
 ![csharp](https://github.com/beuzhi/beuzhi/assets/94816936/4931273a-c37e-402c-897b-c2e636c08065)
 ![js](https://github.com/beuzhi/beuzhi/assets/94816936/92e622ff-c709-451a-91de-c2ba5b6be261)
@@ -31,13 +32,13 @@
 -What i do
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6639586748486e506e446a4f46316857706c2f67697068792e676966](https://github.com/beuzhi/beuzhi/assets/94816936/7a364c67-d214-485b-81c8-8432bc08c99c)
 
-🤝 Support
+                                   🤝 Support
 -----------------------------------------------------------------------------------------
 🎀 Contributions (GitHub Flow), 🔥 issues, and 🥮 feature requests are most welcome!
 
 💙 If you like my projects, Give them ⭐ and Share it with friends!
 
 Made with ❤️ in India
-
+-----------------------------------------------------------------------------------------
 ⚡️Stay awesome!⚡️
 
