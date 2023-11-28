@@ -9,5 +9,5 @@
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=Buezhie&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=Buezhi&show_icons=true&theme=transparent)
 
