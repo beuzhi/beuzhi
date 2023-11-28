@@ -11,5 +11,5 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Buezhi&show_icons=true&theme=transparent)
 
-![Visitor Count](https://profile-counter.glitch.me/Buezhi/count.svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buezhi)](https://github.com/anuraghazra/github-readme-stats)
 
