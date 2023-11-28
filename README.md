@@ -1,4 +1,4 @@
-![html](https://github.com/beuzhi/beuzhi/assets/94816936/da19a205-02e6-4d96-add2-a92d9c261259)### Hi there 👋
+Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -29,16 +29,18 @@
 ![gcp](https://github.com/beuzhi/beuzhi/assets/94816936/8e823225-fd8d-4dcd-9be5-2f9d2d81650e)
 ![bash](https://github.com/beuzhi/beuzhi/assets/94816936/2d2e6e32-ff89-4e07-b2ae-b4b84f186945)
 ![visualstudio_code](https://github.com/beuzhi/beuzhi/assets/94816936/fe336d42-0f53-4276-9ce5-a88e0a861b76)
+
 -What i do
+
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6639586748486e506e446a4f46316857706c2f67697068792e676966](https://github.com/beuzhi/beuzhi/assets/94816936/7a364c67-d214-485b-81c8-8432bc08c99c)
 
                                    🤝 Support
------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
 🎀 Contributions (GitHub Flow), 🔥 issues, and 🥮 feature requests are most welcome!
 
 💙 If you like my projects, Give them ⭐ and Share it with friends!
 
 Made with ❤️ in India
------------------------------------------------------------------------------------------
-⚡️Stay awesome!⚡️
+-----------------------------------------------------------------------------------------------------------------------------
+                                   ⚡️Stay awesome!⚡️
 
